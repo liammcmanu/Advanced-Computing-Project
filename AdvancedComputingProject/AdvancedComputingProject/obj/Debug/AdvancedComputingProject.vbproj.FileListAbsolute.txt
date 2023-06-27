@@ -1,0 +1,11 @@
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\bin\Debug\AdvancedComputingProject.exe.config
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\bin\Debug\AdvancedComputingProject.exe
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\bin\Debug\AdvancedComputingProject.pdb
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\bin\Debug\AdvancedComputingProject.xml
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.Form1.resources
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.Resources.resources
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.vbproj.GenerateResource.Cache
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.exe
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.xml
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.pdb
+n:\visual studio 2012\Projects\AdvancedComputingProject\AdvancedComputingProject\obj\Debug\AdvancedComputingProject.mainPlayspace.resources
